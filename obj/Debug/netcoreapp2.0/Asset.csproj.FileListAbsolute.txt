@@ -1,0 +1,12 @@
+c:\users\jay\source\repos\Asset\Asset\bin\Debug\netcoreapp2.0\Asset.deps.json
+c:\users\jay\source\repos\Asset\Asset\bin\Debug\netcoreapp2.0\Asset.runtimeconfig.json
+c:\users\jay\source\repos\Asset\Asset\bin\Debug\netcoreapp2.0\Asset.runtimeconfig.dev.json
+c:\users\jay\source\repos\Asset\Asset\bin\Debug\netcoreapp2.0\Asset.dll
+c:\users\jay\source\repos\Asset\Asset\bin\Debug\netcoreapp2.0\Asset.pdb
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\Asset.csprojAssemblyReference.cache
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\Asset.csproj.CoreCompileInputs.cache
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\Asset.AssemblyInfoInputs.cache
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\Asset.AssemblyInfo.cs
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\Asset.dll
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\Asset.pdb
+c:\users\jay\source\repos\Asset\Asset\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
